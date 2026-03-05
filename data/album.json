@@ -1,0 +1,21 @@
+{
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Ayesha Oprenario",
+      "cover": "https://jpg6.su/img/NuTWKu7g",
+      "images": [
+        "https://jpg6.su/img/NuTWKu7",
+        "[img]https://jpg6.su/img/NuTWKu7[/img]"
+      ]
+    },
+    {
+      "id": "album2",
+      "title": "Ayesha Oprenario",
+      "cover": "https://jpg6.su/img/NuTWKu7",
+      "images": [
+        "https://jpg6.su/img/NuTWKu7"
+      ]
+    }
+  ]
+}
